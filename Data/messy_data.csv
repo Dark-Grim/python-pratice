@@ -1,0 +1,1001 @@
+customer_id,name,age,signup_date,purchase_amount,gender,city
+637,  Chris Patel,46,32/01/2024,3822 INR,male,Kolkta
+619,Nina Singh,thirty,2023-03-09,765,F,Delhi
+1424,rita brown,79,2021-04-20,2857,M,Kolkta
+196,alice khan,72,21 Mar 2022, 3697 ,Male,Kolkata
+51,john brown,twenty five,2021-05-09,"4,378",Female,Delhi
+330,Vijay Gupta, ,22/04/2021,1846,,Delhi
+929,sara gupta, ,02-27-22,-431,Female,Banglore
+331,  Anita Taylor  ,N/A,31 Oct 2022,,F,Delhi
+NF206,Priya Taylor,thirty,2022-06-14,555 INR,f,New delhi
+1495,Sara Brown,N/A,32/01/2024,₹3033,Female,Kolkta
+01217,  chris mehta,twenty five,24/07/2023,1149,,Bengaluru
+1108, Amit Mehta,twenty five,2023-10-16,₹3417,FEMALE,Mumbai
+1492,Michael Brown ,N/A,01-20-22,1931 INR,Male,Mumbay
+1297,John Mehta , ,23/02/2023, 4736 ,f,Mumbai
+896, nina khan ,N/A,04 Dec 2021, 3929 ,F,New delhi
+817, Vijay Taylor  , ,32/01/2024,₹3613,M,Banglore
+1077,sara iyer,N/A,11-18-22,3218,Female,Banglore
+LN1438,vijay singh,twenty five,06/07/2023,₹957,F,Kolkta
+YD00090,John Gupta,thirty,30/08/2022,"2,459",male,Banglore
+SN329,John Brown  ,61,01 Jan 2021,"3,278",Female,Mumbai
+IU410,Sara Khan,twenty five,22/04/2020, 3603 ,M,Kolkta
+16,anita mehta,thirty,32/01/2024, 1129 ,male,Banglore
+EP480,  Priya Mehta,thirty,21/12/2021,2831 INR,Female,Mumbay
+628,Vijay Khan,N/A,11-24-23,"1,459",FEMALE,Delhi
+1435,Nina Khan,thirty,12-18-20,₹3489,M,Banglore
+MY1138,priya gupta , ,17/03/2020,122,F,Banglore
+621,Anita Iyer,N/A,2023-11-28,367,,Kolkta
+1084,nina iyer,thirty,09-01-22, 487 ,F,Mumbay
+01017,  Priya Taylor  ,twenty five,2020-03-06,"1,873",f,Mumbai
+DM568,Michael Brown, ,04/05/2021,,Female,Bengaluru
+00649,rita khan,twenty five,05-24-23,,F,Bengaluru
+1079,Priya Singh,thirty,32/01/2024,"4,702",Female,Mumbai
+394,Robert Iyer,thirty,15/01/2022,,,Banglore
+UR755,michael doe ,twenty five,03/05/2020,,Female,Delhi
+1405,robert singh, ,10 May 2021, 2831 ,f,Mumbai
+19,priya mehta,N/A,10/12/2023, 2119 ,f,Mumbai
+653,Robert Brown,N/A,2023-12-28,₹4731,FEMALE,Mumbay
+646,chris iyer  ,twenty five,21/06/2023, 1638 ,f,Bengaluru
+01382,Chris Brown,thirty,32/01/2024,2793 INR,Male,New delhi
+927, Priya Singh ,62,2020-02-02,,M,New delhi
+SD506,anita patel,twenty five,30/09/2020,1032,M,Banglore
+615,Vijay Brown, ,05-02-21,,M,Kolkata
+470,nina taylor  ,41,2020-04-09,3986 INR,Female,New delhi
+1142, Amit Taylor ,32,32/01/2024,899,male,Bengaluru
+1432,  sara brown ,80,32/01/2024,930,Female,Kolkta
+01355,Rita Brown ,N/A,32/01/2024,"2,438",Male,Bengaluru
+808,Anita Mehta,twenty five,11-30-21,719,M,Bengaluru
+102,john iyer, ,05-25-22,,F,Kolkata
+269,Vijay Singh,thirty,02-08-22, 3879 ,male,Kolkta
+46,Vijay Mehta,61,2021-05-03,432,FEMALE,Kolkta
+01465,  anita patel,24,10 Feb 2021,,,Kolkata
+357, Priya Taylor,thirty,10 May 2023,₹2982,Male,New delhi
+357,vijay taylor,N/A,32/01/2024,966 INR,Male,Banglore
+01101,  nina brown , ,01 May 2020,"1,552",f,Mumbai
+00851,Amit Iyer,thirty,32/01/2024,2698,M,Mumbay
+1476, John Mehta,thirty,32/01/2024,4675,Female,Banglore
+737,Priya Singh, ,14 May 2020,3555 INR,f,Banglore
+515,Nina Taylor,46,03 Aug 2021,,f,Banglore
+01150,Sara Sharma,N/A,2023-12-27, 2533 ,FEMALE,Kolkta
+1107, rita doe,N/A,29 Jan 2024,183 INR,Female,Kolkta
+00599,amit singh  ,thirty,15/05/2021,732 INR,F,Mumbay
+00690,Priya Brown,18,15/02/2021,"2,130",FEMALE,Kolkta
+351, robert doe  ,N/A,11-10-23,2118,F,Banglore
+919, Amit Taylor  ,twenty five,01 Feb 2020,,Male,New delhi
+1442,Vijay Brown,twenty five,24/01/2020, 1653 ,M,Bengaluru
+00631,anita singh,thirty,2020-08-26,"1,192",FEMALE,Kolkata
+1336,Michael Iyer,80,07-06-20,₹184,FEMALE,Kolkata
+429,Sara Gupta,thirty,18/11/2022, 827 ,Female,Kolkta
+DY804,nina brown,twenty five,24/09/2021,3017,FEMALE,Banglore
+807,  Vijay Doe  ,twenty five,2020-04-23,,f,Kolkata
+00990,Anita Taylor, ,2023-05-25, 850 ,male,Mumbai
+1299,Vijay Patel,twenty five,21/10/2020,,male,New delhi
+1452,  Robert Brown , ,24/06/2023,₹930,M,Kolkta
+1178,  John Singh , ,2022-11-18,₹1467,f,Bengaluru
+1493,Sara Sharma,79,32/01/2024,334 INR,Male,Mumbai
+1468,  Robert Taylor  ,twenty five,32/01/2024, 1108 ,M,Kolkata
+193,Rita Khan,59,32/01/2024,"2,313",F,Delhi
+00317,Sara Gupta,N/A,32/01/2024,₹3748,Male,Mumbay
+819,Alice Gupta,22,11-21-20,₹3045,f,Kolkata
+1194,  Nina Mehta , ,2020-09-21,752 INR,FEMALE,Kolkata
+WA901,John Mehta, ,19 Dec 2022,3585,male,Mumbai
+1152,sara brown,twenty five,2020-08-16, 1488 ,F,Kolkta
+1496, nina mehta ,70,25 May 2023,292,F,Mumbay
+946,Priya Sharma,thirty,32/01/2024, 1668 ,f,Bengaluru
+1069,Alice Mehta,twenty five,32/01/2024,₹846,f,Banglore
+479,Michael Brown ,N/A,32/01/2024,,f,Kolkata
+1284,  Vijay Khan,N/A,21 May 2021,,Male,Mumbai
+1259,  chris patel ,45,2022-09-15,"3,525",F,Kolkta
+544,anita doe,twenty five,07-08-23,1887 INR,,New delhi
+575,Michael Iyer,twenty five,01/01/2021,₹3569,male,Mumbai
+1109,anita singh,thirty,03 Oct 2023,3096,FEMALE,New delhi
+902,alice doe ,N/A,31/01/2020,4639,Female,Mumbai
+705,Anita Sharma,twenty five,32/01/2024, 2409 ,male,Mumbay
+565,Chris Singh  ,thirty,02/05/2022,,f,Kolkta
+KR914,amit taylor,thirty,18 Nov 2023,496,Female,New delhi
+01197,anita iyer,23,2020-12-08,,FEMALE,Bengaluru
+01476,rita khan,N/A,02-19-21,₹3987,FEMALE,Bengaluru
+00968,Priya Mehta,N/A,32/01/2024,,M,Mumbay
+01240, Vijay Patel ,N/A,2022-11-27,,Male,Delhi
+897,Sara Taylor, ,04-04-22,2866 INR,FEMALE,New delhi
+780,Alice Brown,thirty,09 Mar 2020, 1610 ,Female,Kolkata
+1278,Amit Iyer,thirty,17 Oct 2021, 1672 ,F,Kolkta
+912,Anita Taylor,twenty five,32/01/2024,4828,Female,Bengaluru
+416, Robert Mehta  ,69,16 Nov 2022,"4,346",male,Kolkata
+734, vijay sharma ,15,04-21-23,,Male,New delhi
+33, Rita Khan  ,N/A,01-07-23,"4,003",Female,Banglore
+137,  Vijay Patel , ,07-15-23,432,,Delhi
+133,Sara Gupta,thirty,32/01/2024,"1,345",F,Mumbai
+765, nina doe, ,09-13-23,₹4547,Male,Banglore
+1392, Priya Sharma, ,10-17-23, 4926 ,f,Mumbay
+00306,Nina Gupta,65,02-01-24,,FEMALE,Mumbai
+1310,  John Gupta, ,32/01/2024, 273 ,,Kolkata
+239, Alice Taylor ,N/A,15 Nov 2020, 3668 ,f,New delhi
+00500,Vijay Gupta,N/A,10-25-23,,f,Bengaluru
+502,nina khan  , ,32/01/2024, 2712 ,F,Kolkta
+155,  Nina Khan,twenty five,2022-02-28,"3,265",,Kolkta
+01047,  chris sharma,N/A,01-19-23,3675 INR,f,Bengaluru
+01412,Anita Patel,thirty,32/01/2024,1177 INR,FEMALE,Mumbay
+310,michael singh,thirty,32/01/2024,"1,568",F,New delhi
+1147,anita singh  ,N/A,14/01/2021,,Male,Kolkta
+380, Amit Singh ,thirty,2022-02-24,,male,Banglore
+1295,Chris Sharma,twenty five,17 Apr 2022,₹943,Male,Banglore
+00208,Robert Gupta, ,27 Mar 2023,,M,Kolkata
+1168,Vijay Sharma, ,02 Jun 2023,924,,Mumbay
+1025,Michael Taylor,N/A,19 Apr 2023,637,Female,Bengaluru
+963,Amit Doe,twenty five,11/04/2021,,f,Banglore
+1474,nina iyer,N/A,2023-05-16,3044 INR,FEMALE,Delhi
+00177,Priya Singh,N/A,2020-07-29, 4666 ,FEMALE,Banglore
+15, Chris Singh ,twenty five,09/12/2021,₹4817,M,Mumbay
+1386,Vijay Gupta,27,18 Oct 2020,4750 INR,FEMALE,Kolkata
+976, Priya Taylor,N/A,12 Feb 2021,,Male,Bengaluru
+233,Michael Mehta,N/A,06 May 2020, 3334 ,Male,Banglore
+761,Michael Taylor ,twenty five,2021-02-09, 1953 ,FEMALE,New delhi
+TI653,Vijay Patel,N/A,26 Jan 2023,₹2046,Female,Kolkta
+250,  John Khan ,twenty five,21 Jul 2022,₹2650,FEMALE,New delhi
+01160, Sara Doe  ,26,32/01/2024,,F,Kolkta
+483,Robert Gupta  ,thirty,12-29-20,1708 INR,male,Mumbai
+596,Chris Mehta,twenty five,21/02/2020,₹3650,FEMALE,Mumbai
+1038,John Brown,47,11/02/2021,2130 INR,M,Kolkta
+1108,Sara Khan,twenty five,2023-03-21,"4,192",Female,Mumbay
+JQ00389,Nina Brown, ,32/01/2024, 3157 ,male,Banglore
+942, Michael Sharma  ,twenty five,32/01/2024, 2704 ,male,Kolkata
+1225, Vijay Mehta  ,thirty,2020-08-18,"4,711",M,Mumbai
+FB179,amit mehta,thirty,19 Jul 2023, 628 ,,Mumbay
+1105,vijay iyer ,twenty five,32/01/2024,,Female,New delhi
+01185,Chris Brown,34,32/01/2024, 1634 ,FEMALE,Mumbai
+XZ639,Rita Gupta,43,32/01/2024,"1,070",,Kolkta
+648,Rita Mehta,twenty five,2021-05-21, 3423 ,F,Kolkta
+627,Vijay Sharma  ,thirty,03/05/2023,4804,f,Bengaluru
+974,amit doe,N/A,15/07/2020,₹4670,FEMALE,Mumbay
+318,  Priya Taylor  ,twenty five,32/01/2024,3743 INR,,Mumbay
+8, Alice Patel,thirty,25/11/2020,₹2554,male,Banglore
+PT01419,John Gupta, ,25/10/2021,₹487,,New delhi
+293, vijay patel  ,thirty,12/05/2023, 3093 ,Female,Mumbay
+01427,Sara Sharma, ,02-20-20,660 INR,f,Kolkata
+799,chris mehta  ,N/A,10/08/2022,1788,male,New delhi
+260,john patel, ,08/10/2022,,M,Kolkata
+00394,alice doe,69,32/01/2024,"4,261",F,Kolkta
+1116,Vijay Singh, ,2021-06-17,,f,Kolkata
+00681,John Singh,N/A,2022-04-04, 1806 ,Female,Delhi
+978,john mehta, ,10/06/2021,"2,852",Male,Delhi
+191,Robert Gupta, ,03 Mar 2022, 4701 ,Female,Mumbai
+1467,Anita Mehta,16,07/05/2021,4363,Female,Bengaluru
+1114,Chris Gupta,twenty five,08 Apr 2022,,F,Banglore
+159,nina mehta,N/A,32/01/2024, 2253 ,FEMALE,Kolkta
+1083, Anita Iyer,twenty five,32/01/2024,,FEMALE,Kolkta
+335,Rita Taylor,twenty five,32/01/2024, 245 ,M,Mumbay
+KF561,robert mehta,N/A,11/03/2023,"1,021",male,Mumbay
+595,vijay patel,79,32/01/2024,,FEMALE,Banglore
+407,rita brown,thirty,32/01/2024,3926,FEMALE,Banglore
+1098,  sara brown ,thirty,04-14-21, 1348 ,FEMALE,Mumbay
+00474, Robert Mehta ,N/A,01 Nov 2021,164,Female,Banglore
+ER33,michael taylor,N/A,04-23-20,4278 INR,FEMALE,Mumbay
+460,vijay taylor,thirty,08 Dec 2020,₹2862,M,Kolkta
+193,rita gupta,32,05/06/2020,₹2704,male,Mumbai
+397,Priya Sharma,48,06-20-21,,Female,Kolkata
+RR820, robert gupta, ,05-18-22,769 INR,FEMALE,Bengaluru
+587,sara sharma,thirty,2021-07-23,"2,935",F,Kolkata
+00430,Priya Khan,twenty five,2023-09-19,₹4277,M,Mumbai
+701,Sara Brown,thirty,12-08-23,,FEMALE,Kolkata
+1314,chris singh, ,17/02/2023,719 INR,Female,Bengaluru
+48,Nina Brown,N/A,08-04-22, 1022 ,,Bengaluru
+1019, sara doe,N/A,25/08/2021,3180,M,Banglore
+1282,alice doe,N/A,01-19-23, 1590 ,,Banglore
+814, John Singh ,thirty,2022-06-14,4639,Female,Mumbai
+75,Amit Gupta,18,16 Oct 2020, 1053 ,F,Delhi
+01367,Chris Mehta ,71,13/09/2023,,F,Delhi
+1473,robert gupta,thirty,16/12/2021,"3,989",M,Banglore
+894,Sara Singh,twenty five,32/01/2024,572 INR,F,Kolkata
+00275,  Robert Doe  ,thirty,2023-07-07,2422 INR,Male,Mumbai
+555,anita gupta, ,32/01/2024,3893,F,Mumbay
+630, Robert Sharma, ,2020-06-20,1954 INR,male,Mumbai
+1083,Alice Doe,thirty,2021-01-26,"1,640",F,Mumbai
+421,Michael Gupta,thirty,2022-06-25,,Female,Mumbay
+KS01118,Sara Patel  ,67,32/01/2024, 3774 ,FEMALE,Bengaluru
+629,Vijay Taylor,26,2022-02-27,,Female,Mumbai
+14,Rita Khan,twenty five,06/09/2020,990,f,Mumbai
+IA00585,michael khan, ,32/01/2024,,Male,Banglore
+01045,michael gupta,twenty five,32/01/2024,,FEMALE,Banglore
+645,John Patel,thirty,01-11-24,"3,735",F,New delhi
+1280,Amit Brown,21,28/01/2021,2754,FEMALE,New delhi
+1410, Chris Mehta  ,twenty five,02-01-24,"1,769",Male,New delhi
+00531,Robert Sharma,twenty five,2024-01-20,,FEMALE,Mumbay
+00481,  priya doe  , ,2022-02-23,₹2324,FEMALE,Kolkta
+UG857,  Priya Patel  ,58,2022-08-21,,,Kolkta
+726,Chris Brown,61,27 Sep 2022,₹1930,male,Banglore
+TM704,Vijay Mehta,N/A,04-13-20,1479,f,Delhi
+712, Amit Patel,twenty five,2020-08-15,"4,586",,Bengaluru
+266,Nina Mehta,34,12-04-21,,,Mumbai
+BX00827,Rita Khan,twenty five,2020-06-09,₹2303,Male,Mumbay
+234, vijay khan,51,14/02/2023,3638 INR,F,Delhi
+1414,Anita Brown,thirty,2022-03-24, 1780 ,FEMALE,Delhi
+854,Sara Taylor, ,2021-03-19, 2671 ,M,Mumbay
+104, Anita Doe ,53,13 Aug 2021,₹3295,FEMALE,Kolkta
+275,Alice Taylor ,thirty,32/01/2024,4526,Male,Kolkta
+282, chris patel ,thirty,04-24-23,,M,Mumbay
+264,Michael Doe,twenty five,14/05/2022,2165 INR,Male,Mumbai
+229,Priya Taylor,19,08-28-20,1326,Female,Mumbay
+349,priya iyer,twenty five,2022-03-26,,f,Mumbai
+495,John Sharma,N/A,15 Jul 2020,,,New delhi
+1318,  Robert Taylor ,thirty,12/10/2022,,,Bengaluru
+1177,Alice Iyer, ,03-14-23,₹3512,FEMALE,Banglore
+678,rita doe  ,N/A,2020-09-16,3013 INR,M,Kolkata
+972, Anita Iyer,thirty,2021-08-18, 2881 ,,Delhi
+1084,Priya Sharma  ,thirty,2022-04-15,"1,097",Female,Banglore
+01360,Chris Mehta,twenty five,10-16-20, 820 ,F,Delhi
+00324,robert mehta,N/A,13 Apr 2023,4395,FEMALE,Mumbay
+1262,Vijay Sharma,thirty,23/12/2021,3971 INR,FEMALE,Mumbay
+1495,  Sara Mehta ,N/A,19/04/2023,,Male,Mumbay
+DM193,Sara Taylor, ,27 Dec 2023,"1,945",M,Mumbai
+01427,Anita Patel,47,2023-10-03,₹2921,male,Delhi
+251,chris taylor,thirty,32/01/2024,3249,FEMALE,Delhi
+1250,Sara Brown, ,07-31-20,"4,411",F,New delhi
+996,Sara Brown,twenty five,32/01/2024,,f,Bengaluru
+469,  Chris Sharma  ,77,2022-05-08,"2,957",f,Banglore
+UI01409,  John Khan,twenty five,27/07/2022,,,Mumbay
+1027,Amit Patel, ,32/01/2024,,FEMALE,Kolkta
+436,Rita Patel,thirty,06-10-23,,Male,New delhi
+822,michael doe,thirty,21 Feb 2021,₹473,Male,New delhi
+546,Sara Gupta, ,07/07/2021,553 INR,,Bengaluru
+619,John Singh,27,16/11/2021,2042 INR,male,Bengaluru
+01097,priya patel,24,32/01/2024,,Male,Delhi
+328,priya sharma,twenty five,32/01/2024,"4,339",f,Kolkta
+1330,Robert Mehta,thirty,07/03/2020,3157,Male,Kolkata
+260,michael sharma,N/A,32/01/2024,,f,Delhi
+ZG1285,Vijay Doe,twenty five,12-13-23,3181,f,New delhi
+7,Amit Patel,twenty five,10-19-20,,Female,Mumbai
+1416,robert taylor,twenty five,16/02/2023,426,,Bengaluru
+271,chris gupta,twenty five,21/12/2020,3592 INR,Female,Mumbai
+00528,Priya Doe,50,05/11/2022,₹4626,,New delhi
+01057,  sara taylor,thirty,2024-02-01,194,Male,Kolkta
+1240,rita gupta,twenty five,2021-10-21,,,New delhi
+00655,sara iyer ,53,2021-10-13, 2794 ,F,New delhi
+739,Alice Sharma,78,2020-02-22,₹1987,male,Bengaluru
+260,Sara Gupta, ,2023-10-22,,Male,Mumbai
+677,Sara Singh,N/A,2020-03-23,3757 INR,,Kolkata
+CC01058,chris taylor  ,thirty,32/01/2024,"3,737",F,Delhi
+325,Sara Gupta,thirty,30 Mar 2022,₹4590,F,Banglore
+1273,  vijay sharma, ,15/09/2022,1789,FEMALE,New delhi
+UJ184, Chris Singh  ,79,2021-04-16,,Female,Bengaluru
+800,michael patel,thirty,2020-08-24,"1,340",,Delhi
+01442,Alice Sharma,thirty,05-06-21, 2339 ,F,Banglore
+372, priya taylor, ,03/07/2023,4329,FEMALE,Bengaluru
+1327, Chris Gupta  ,41,32/01/2024,4358 INR,FEMALE,Banglore
+889,Robert Gupta, ,05 Feb 2020,2280 INR,f,Mumbay
+01351,  Rita Gupta ,37,2021-12-18,₹3423,FEMALE,Kolkta
+738,  Vijay Singh  , ,07 Jan 2023,2818 INR,FEMALE,Bengaluru
+158,  michael singh  , ,2023-07-27,1223,M,Mumbay
+00313,michael brown,thirty,04 Oct 2021,2809 INR,FEMALE,Delhi
+00868,rita doe,twenty five,05-31-23,"2,732",Female,Kolkata
+746,john sharma,20,2021-05-10,"1,758",f,Mumbai
+773, Rita Singh ,twenty five,32/01/2024,₹3712,FEMALE,New delhi
+872,  Priya Singh ,55,18 Aug 2021,,Male,Mumbay
+921,Vijay Mehta,N/A,11-17-20, 4336 ,Male,Mumbay
+1448,Priya Patel, ,2022-02-23,₹1236,f,Banglore
+1028, sara iyer  ,30,2021-10-11,2410,F,Mumbai
+1261,Sara Doe  , ,32/01/2024,1274 INR,Male,Kolkta
+00552,Robert Gupta, ,10 Nov 2023,₹458,M,Kolkta
+01287,robert taylor,thirty,2023-08-31,,male,Banglore
+1340,Nina Doe,thirty,07/02/2021, 4174 ,Female,Bengaluru
+959,John Doe  ,twenty five,16/03/2020,2554 INR,FEMALE,Kolkta
+374,Nina Singh,thirty,32/01/2024,1171,,Kolkata
+01341,Alice Doe,twenty five,17/08/2020,4664,f,Mumbai
+946,Rita Sharma,57,18/07/2023,₹2666,M,Delhi
+01460,alice doe,twenty five,28/04/2022,₹1111,Female,Mumbai
+837,chris patel ,thirty,27/09/2020,,Male,Mumbay
+00143,alice doe,79,2023-12-03, 2533 ,Female,Kolkta
+TC1365,Rita Gupta,twenty five,2022-12-28,2301,male,Kolkata
+1428,Anita Brown,N/A,2022-11-13,,Male,New delhi
+BS01311,Alice Sharma  ,twenty five,32/01/2024,912,Male,Delhi
+833,Vijay Doe, ,2021-02-15,4787 INR,Female,Mumbay
+1324,Chris Khan,thirty,32/01/2024,"4,910",Female,Mumbai
+1006,Priya Singh,thirty,32/01/2024,,FEMALE,Kolkta
+1230,Rita Gupta,N/A,2024-01-04,₹2088,M,Mumbai
+654,Chris Iyer ,N/A,12 Oct 2021, 1627 ,male,Mumbai
+712,  Amit Khan,30,2023-03-14,3843 INR,M,Delhi
+289,John Iyer,N/A,07 Feb 2021, 3731 ,Male,Kolkta
+1392,Amit Taylor,thirty,29/11/2021, 688 ,male,Banglore
+980,Chris Khan,thirty,2021-03-05,487,,Kolkata
+941,chris sharma, ,16/07/2021,"3,013",male,Kolkata
+717,John Sharma,N/A,2022-07-15,2712 INR,,Bengaluru
+136,  Michael Mehta ,twenty five,19/06/2023,₹3545,Female,Kolkata
+1064, Vijay Mehta ,twenty five,2022-10-14,333,Female,Banglore
+1031,Anita Gupta,twenty five,29 Oct 2023, 1514 ,F,Mumbai
+1342,alice mehta,thirty,2022-11-26,,M,New delhi
+1193,Priya Taylor, ,31/10/2021,1773,f,Banglore
+01245,Vijay Khan,N/A,04-11-22,"4,144",,Kolkta
+1421,  sara taylor  ,N/A,05 Sep 2021,427 INR,FEMALE,Kolkata
+1246,  sara khan,N/A,01-09-22,₹1940,f,Banglore
+156,Michael Khan,70,04-29-21,₹4299,f,Banglore
+00234,Sara Khan, ,05-27-23,₹4600,FEMALE,Bengaluru
+772, anita khan ,twenty five,15/06/2023, 3957 ,FEMALE,Delhi
+501,  Alice Patel  ,75,12-20-20,₹2440,,Banglore
+170,rita mehta, ,01-29-21,1385 INR,f,Mumbai
+456,Anita Mehta,N/A,32/01/2024,3123,M,New delhi
+336,Alice Doe,thirty,17 Sep 2020,,F,Bengaluru
+1295,vijay brown,71,07/06/2022,3630,M,Mumbai
+145,Priya Doe  ,22,08-18-23, 1470 ,Male,Kolkata
+1393,Sara Taylor,64,32/01/2024,₹1916,F,Mumbay
+1225,vijay mehta,N/A,32/01/2024,,FEMALE,Mumbay
+AQ01447,Chris Singh ,N/A,32/01/2024,3217 INR,FEMALE,Bengaluru
+555,Michael Mehta,twenty five,01/08/2022,297,F,Kolkta
+JR986,Robert Singh,thirty,32/01/2024, 2920 ,M,Delhi
+48, nina gupta,N/A,32/01/2024,,f,Kolkata
+1347,sara mehta, ,05-12-21, 2368 ,F,New delhi
+66, rita sharma, ,26 Mar 2020,₹2010,f,Banglore
+1234,Amit Iyer, ,32/01/2024,"4,643",F,Mumbai
+00701,Rita Sharma ,twenty five,32/01/2024,134 INR,M,Mumbay
+1170,nina brown, ,32/01/2024,₹4878,M,Mumbai
+1076,Alice Taylor ,thirty,2022-02-27, 4026 ,FEMALE,Kolkta
+4,Alice Brown ,N/A,19 Dec 2020,₹4007,Female,Bengaluru
+00286,  John Mehta  ,N/A,06-12-22,4652,FEMALE,Bengaluru
+1005,rita gupta ,thirty,32/01/2024, 1734 ,f,Kolkata
+724,Priya Mehta,N/A,04-02-23,"2,184",FEMALE,New delhi
+1349,  robert sharma , ,24/04/2020,,Female,Delhi
+1300,Vijay Taylor, ,23 Nov 2021,1486,male,Mumbai
+500,Priya Gupta,30,21 Mar 2021,₹1524,F,Delhi
+98,alice doe ,thirty,01-01-20,2569,F,Kolkta
+1097,Robert Taylor,N/A,21/11/2020, 445 ,F,Bengaluru
+1306, Nina Sharma,41,18 Nov 2020, 4842 ,Female,Mumbai
+755,Nina Singh, ,2022-05-11,"3,589",Female,Kolkta
+832,Alice Singh,68,32/01/2024,"4,166",male,Kolkata
+JV00436,alice patel,N/A,2023-05-11,₹3674,,Kolkata
+1156,Anita Iyer , ,05/05/2022,,male,Mumbai
+1132,  Amit Doe,twenty five,32/01/2024, 3037 ,Female,Banglore
+571,amit singh,N/A,07-12-20,4511,f,Kolkata
+AW1280,Sara Brown,twenty five,2021-09-18,,FEMALE,Kolkta
+714,anita sharma,twenty five,06-05-21,2944,Female,Mumbay
+PD116,Nina Patel,twenty five,07-30-22,₹917,FEMALE,Banglore
+1377, Sara Brown, ,11-12-20, 949 ,Male,Banglore
+1378,Robert Brown,N/A,07-06-20,1710,M,Mumbay
+678,priya sharma, ,02-17-21,2622 INR,F,Kolkata
+186,John Patel,thirty,32/01/2024,3349 INR,Male,Kolkata
+809,  robert iyer  ,thirty,2024-01-24,,Male,Mumbay
+00291,amit doe,thirty,32/01/2024,,f,Kolkata
+20,Priya Brown,N/A,32/01/2024,534,FEMALE,Mumbai
+73,robert brown,twenty five,32/01/2024, 2302 ,F,Kolkta
+EI1241,michael doe,twenty five,30/01/2024,1305 INR,F,Kolkta
+744,john singh,twenty five,18/09/2022,₹402,M,Mumbay
+00144,Amit Doe, ,05 Aug 2023, 3660 ,F,Mumbay
+1420,Alice Patel, ,18 Oct 2021,₹4336,f,Mumbay
+922, sara brown,54,2022-10-01,"2,251",,Mumbay
+157, Anita Mehta  , ,32/01/2024,,Female,Delhi
+SL1074,Chris Singh, ,15/07/2022,556,M,Mumbai
+952,Robert Taylor,twenty five,28 Mar 2023,"3,171",F,Mumbai
+1274,robert patel, ,32/01/2024,599,f,Bengaluru
+839, Vijay Patel  , ,2022-01-14,4033 INR,male,New delhi
+RC01112,priya iyer,61,12-08-23,₹2144,M,New delhi
+317,nina iyer,twenty five,2020-09-06,,Male,Bengaluru
+1437,amit gupta,N/A,2022-09-01,3543,F,Kolkta
+HO00604,vijay doe, ,28 Jul 2022,1925,M,Bengaluru
+00680,  amit iyer ,thirty,17 Dec 2023,₹3833,Female,Banglore
+1115,  Robert Iyer ,thirty,25/02/2021, 3437 ,FEMALE,Kolkta
+98,Robert Sharma,thirty,29 Oct 2022,2014 INR,,Kolkata
+VZ1029,Vijay Khan  ,twenty five,29/07/2021,"3,195",F,Bengaluru
+74, Rita Gupta,17,09-10-21, 1233 ,male,Bengaluru
+701,Rita Taylor,22,20/06/2021,"1,469",Female,New delhi
+217,Michael Gupta, ,32/01/2024, 1959 ,M,Banglore
+345,Amit Brown,thirty,15/01/2021,4965 INR,f,New delhi
+01157, John Doe,40,07/06/2020,-4844,f,Bengaluru
+00853, John Doe  ,thirty,09-05-23,₹2159,Female,Kolkata
+354,rita mehta,24,04/10/2020, 385 ,F,Kolkta
+90,Chris Gupta,21,17/10/2023,,FEMALE,Banglore
+WH00711,priya mehta,46,15 Feb 2022, 4830 ,Female,Banglore
+00687,Chris Sharma,twenty five,19/11/2021,,FEMALE,Bengaluru
+907, Amit Taylor  , ,26/06/2020,868,Male,Banglore
+SR1303,John Taylor,22,32/01/2024,162,Female,Delhi
+843,  Sara Taylor ,24,07-15-22, 4730 ,M,Kolkata
+QG632,Vijay Patel,thirty,12-27-20,2113 INR,f,Banglore
+673,Sara Singh, ,05-09-22,"1,500",Female,New delhi
+265,Robert Brown,twenty five,31 Oct 2023,4408 INR,Male,Mumbai
+00410,chris patel,N/A,17 Dec 2022,"1,012",f,Kolkata
+1065,Sara Taylor  , ,2022-12-24,₹3815,,Mumbai
+1075,Michael Khan,N/A,32/01/2024,1931 INR,M,Mumbay
+339,Anita Patel,twenty five,32/01/2024,4980,f,Mumbay
+1010,amit taylor, ,31/08/2023,"2,920",F,Mumbay
+1385,priya mehta,thirty,12 Mar 2020, 3637 ,FEMALE,Bengaluru
+1470,Priya Mehta, ,32/01/2024, 4655 ,M,Mumbay
+UG00442,rita sharma,twenty five,2022-07-26,"2,428",FEMALE,New delhi
+MO1288,Michael Gupta,59,06-29-22,671,male,Bengaluru
+777, Robert Doe, ,30/12/2022,2132 INR,,Bengaluru
+00946,Priya Iyer,twenty five,12/04/2020, 3514 ,Female,Delhi
+1406,Rita Patel,27,2022-04-21,₹1550,male,Delhi
+00403,Vijay Mehta,twenty five,32/01/2024,₹104,FEMALE,Kolkta
+827,john iyer,44,32/01/2024,"4,238",M,Bengaluru
+00686,vijay patel,N/A,01 Jul 2020,1295 INR,f,Mumbay
+715,Amit Doe,N/A,32/01/2024,4901 INR,f,Kolkta
+00485,Priya Mehta,53,21 Dec 2021,1909,Female,Kolkata
+509,rita khan,57,32/01/2024,282,male,Kolkata
+1209,michael patel,69,2021-05-14,"1,934",,Delhi
+00091,  Michael Patel,N/A,09-03-21,"4,178",M,Banglore
+726,Nina Doe, ,32/01/2024, 480 ,FEMALE,Delhi
+00127,Chris Mehta, ,2023-04-22,673 INR,male,Kolkta
+723,Nina Patel,46,06-30-22,1184 INR,Male,Kolkata
+1238,John Sharma, ,15/08/2023,₹4736,Female,Bengaluru
+00730,  Rita Gupta  ,twenty five,32/01/2024,2400,male,Banglore
+415,Sara Gupta,51,32/01/2024,559,f,Kolkta
+699,Anita Brown, ,32/01/2024,₹3189,Male,Kolkata
+683,Alice Gupta,N/A,19 Jul 2020,1334 INR,Male,Mumbay
+315,  amit gupta  ,41,2020-11-13,2152 INR,Female,Delhi
+464,Vijay Doe,19,2023-04-29,₹3921,f,Mumbai
+CI00356,priya khan,thirty,29/11/2023,4025 INR,Male,Bengaluru
+606,robert iyer  ,twenty five,10-09-22,3165,M,Mumbai
+01373,alice gupta,thirty,10-27-23, 2516 ,male,Kolkta
+00538,John Khan,N/A,21/04/2020,₹792,,Delhi
+00038,Chris Taylor,twenty five,12 Jan 2023,₹1589,Male,Mumbay
+1312,robert iyer,twenty five,32/01/2024,₹4175,M,Delhi
+01238,Vijay Mehta,thirty,03/04/2023,4368,f,Delhi
+00903,Alice Sharma,thirty,03-01-22,₹2558,FEMALE,Kolkata
+271,Chris Gupta,thirty,03-02-22,₹4847,Male,Delhi
+01138,Rita Mehta,thirty,2021-11-01,"1,901",FEMALE,Mumbai
+1024, amit gupta  ,51,07 Jun 2020,4926 INR,male,New delhi
+584,Chris Doe,N/A,22/11/2022,₹1216,M,Kolkata
+1124, michael patel ,46,2020-06-13,,male,Banglore
+946,Amit Doe, ,12 Oct 2023,₹2021,,New delhi
+519,Anita Iyer,N/A,32/01/2024,₹1091,Male,New delhi
+1444, Anita Brown,N/A,32/01/2024, 1834 ,male,Kolkata
+1136,anita iyer, ,32/01/2024,321,M,Mumbay
+933,John Patel  , ,32/01/2024,"1,038",f,Delhi
+620,John Mehta,60,32/01/2024,2084 INR,M,Mumbai
+543,Priya Gupta  ,twenty five,2022-04-29,,male,Kolkta
+01285,  anita gupta,twenty five,31 Aug 2021,,Male,Mumbai
+01496, Michael Singh ,thirty,32/01/2024,,male,Kolkta
+1346,Amit Brown , ,31 May 2022,,male,Kolkta
+1270,Robert Iyer,twenty five,25 Dec 2022,₹581,M,Kolkata
+GI01040,Rita Taylor,thirty,07-09-20,2653 INR,FEMALE,Bengaluru
+317,Nina Patel,twenty five,16 Jan 2023,4894,FEMALE,Bengaluru
+1471,Amit Gupta,thirty,27 Apr 2022,3914 INR,,New delhi
+836, Vijay Mehta  ,thirty,32/01/2024,"2,256",FEMALE,Kolkata
+54,Michael Sharma,thirty,23 Jan 2020, 1347 ,,Delhi
+316,Anita Patel , ,01/10/2021,"3,478",F,Kolkta
+260, Nina Mehta,twenty five,32/01/2024, 4459 ,FEMALE,Kolkata
+856,Robert Taylor,twenty five,21 Nov 2021, 1679 ,Female,Bengaluru
+873,  Chris Doe ,20,01-13-22,1845,f,Mumbai
+537, nina iyer,twenty five,32/01/2024,,M,Kolkta
+01000, Vijay Brown  , ,32/01/2024,1576 INR,,Kolkta
+549,Robert Mehta,thirty,21/04/2023,-3748,Male,Kolkta
+LA716,nina brown,N/A,08-07-20, 485 ,Female,Kolkata
+1150,Amit Khan,thirty,32/01/2024,4855 INR,Female,Bengaluru
+183, John Taylor ,N/A,32/01/2024,,,Banglore
+798, Anita Taylor , ,10/12/2023,"4,089",M,Bengaluru
+1467,sara khan,thirty,2021-12-17, 1052 ,Female,Banglore
+1132,alice singh,twenty five,23 Aug 2022, 1591 ,M,Delhi
+919,amit doe,twenty five,32/01/2024,"1,998",FEMALE,Mumbay
+122,Priya Iyer,twenty five,08-11-22,4641 INR,f,Kolkata
+1199,Anita Iyer,N/A,32/01/2024,"4,695",F,Kolkata
+111,amit doe,thirty,06-14-23, 2486 ,,Mumbay
+981,John Khan,44,32/01/2024,,FEMALE,Kolkata
+534,John Singh,thirty,08 Jun 2022,2632,FEMALE,Kolkata
+NB63,Vijay Patel, ,01-26-23,,Female,Mumbay
+787,sara iyer,N/A,12-10-22,2525 INR,Female,Delhi
+41,Rita Doe,N/A,05/12/2020,,Male,Delhi
+1179,  Vijay Taylor ,N/A,32/01/2024, 2049 ,Male,Bengaluru
+626,  Vijay Khan ,N/A,05/10/2023,1914,Female,Banglore
+787,Amit Taylor,thirty,12-08-20,₹1746,male,Banglore
+98,Michael Doe,N/A,11-01-23,₹2855,FEMALE,Mumbai
+806,Priya Taylor,twenty five,32/01/2024,"3,990",f,Banglore
+958,Nina Gupta,N/A,21 Sep 2022,₹637,,Banglore
+1237,  Priya Brown  ,thirty,32/01/2024,450,Female,Kolkta
+282,amit mehta,twenty five,2023-12-21,,male,Kolkata
+1000,Robert Patel,N/A,2022-02-03,500 INR,FEMALE,Delhi
+450,Robert Sharma,twenty five,2020-04-11, 4573 ,FEMALE,New delhi
+26,anita doe , ,01-19-22, 1960 ,,Delhi
+249,Vijay Doe,25,2020-03-30,₹2765,FEMALE,Kolkata
+948,Vijay Doe, ,31 Oct 2023,3484 INR,F,New delhi
+1178, john mehta,N/A,02-13-23,1437 INR,F,Banglore
+669,Sara Gupta,61,2022-04-03,₹1817,male,Mumbay
+787, Michael Mehta,thirty,25 May 2021, 591 ,Male,Kolkta
+1187,chris mehta,twenty five,02/12/2023,"3,085",male,New delhi
+218,Anita Gupta, ,10-20-23,631 INR,Female,Delhi
+4,  sara iyer ,twenty five,27/01/2024,454,F,Mumbai
+1058, Sara Iyer, ,32/01/2024,"2,299",f,Kolkata
+00877,Priya Khan,N/A,07/11/2022,842,male,Kolkta
+806,Anita Khan,twenty five,03-12-23,₹2063,,Kolkta
+371,John Iyer, ,02 Nov 2021,,M,Kolkta
+1023,John Iyer  ,twenty five,02/11/2020,2727,male,Delhi
+942,Alice Sharma, ,06/01/2024,789 INR,,New delhi
+401,John Taylor  ,thirty,15/12/2023,1614 INR,F,Banglore
+00571,Chris Gupta,twenty five,20/07/2023,3896 INR,F,Bengaluru
+00756,Robert Khan,thirty,13 Mar 2021,1976 INR,male,Kolkta
+01163,sara brown ,twenty five,32/01/2024,"1,430",male,Delhi
+157,Alice Doe , ,06-22-23,₹4334,,Kolkata
+00958,Chris Patel, ,29/09/2021, 2798 ,,Kolkta
+MJ1457,Anita Iyer,twenty five,03-21-23, 831 ,Male,New delhi
+449,Nina Taylor, ,32/01/2024,"1,723",M,Mumbai
+1448,  Nina Sharma  ,N/A,29/08/2022,4285 INR,F,Bengaluru
+1204,Alice Khan,thirty,32/01/2024,₹1453,f,New delhi
+64,chris khan,56,2023-07-11, 3354 ,,New delhi
+557,Nina Iyer,twenty five,2022-03-20,2262,f,Bengaluru
+01122, Anita Sharma ,thirty,11-05-20,3314 INR,F,Kolkata
+1143,Chris Mehta,76,08-24-20,"4,500",Female,Banglore
+01176,amit patel,N/A,32/01/2024,₹3098,f,Mumbai
+207,Alice Khan,twenty five,09/04/2023,2821 INR,,Kolkta
+564, Rita Khan  ,41,05/02/2020,1043 INR,,Mumbay
+886, Rita Sharma,thirty,32/01/2024,234,F,New delhi
+501,Michael Doe, ,23/02/2020,₹3784,male,Delhi
+1444,nina patel,thirty,12/02/2023,,F,Bengaluru
+TE326, chris khan ,73,32/01/2024,3422,f,Mumbay
+00774,  Amit Doe ,72,06-30-20,,Female,Delhi
+00455,priya taylor, ,13/06/2022,"1,907",F,Kolkta
+151,rita mehta, ,2024-01-25,₹3189,male,Delhi
+1456,Robert Mehta,thirty,32/01/2024,555,F,Kolkata
+NV466,Anita Gupta,twenty five,2020-03-13,4017,M,Mumbay
+727,Michael Gupta ,N/A,08/06/2021,,M,Mumbai
+97,Amit Iyer,N/A,07-14-23, 4893 ,M,Banglore
+138,Nina Brown,twenty five,10-27-21, 3338 ,F,Delhi
+1247, Rita Singh  , ,10-02-21,₹4556,,Mumbay
+182,Robert Khan,thirty,2022-10-23,,F,New delhi
+710,robert doe, ,07 Nov 2023,₹1223,F,Kolkta
+955,Michael Doe, ,17 Apr 2020,1712,Male,Kolkata
+731,Michael Brown,thirty,26/01/2023, 1077 ,Female,Bengaluru
+757,Amit Iyer,twenty five,2021-07-23, 451 ,Female,Mumbay
+605,alice taylor,53,09 Feb 2023, 3334 ,F,Kolkata
+1236,Vijay Singh,thirty,04-28-22,,f,Kolkta
+1063,amit patel,N/A,2023-03-25,2606,Male,Kolkata
+225,Vijay Patel,76,2023-12-29, 180 ,M,Mumbai
+00907,John Singh, ,26/10/2021,3997,M,Mumbai
+KP451,Anita Doe,41,04/12/2020,,Male,Mumbay
+01029,nina doe,N/A,04-14-23,₹409,F,Kolkta
+438,Priya Taylor, ,32/01/2024,,FEMALE,New delhi
+305,anita iyer,twenty five,28/09/2022,₹2407,Female,Bengaluru
+00999,  michael sharma, ,22 Nov 2022,1312 INR,F,Kolkata
+GU854, john mehta , ,2020-07-10,₹4320,M,Bengaluru
+00068,Amit Khan,N/A,12 Feb 2020, 3210 ,Male,Kolkata
+750,Sara Singh,twenty five,32/01/2024, 2733 ,f,Bengaluru
+AF01477, Robert Doe  ,N/A,07-07-23,4992 INR,f,Kolkta
+650,  Rita Khan,twenty five,05-04-22,"1,573",male,Delhi
+XD948,Chris Sharma,46,32/01/2024,₹1104,M,Mumbay
+258,Nina Taylor,thirty,32/01/2024, 4263 ,f,Banglore
+00976,Michael Brown ,46,2020-10-30,3697 INR,FEMALE,Delhi
+1255,Vijay Gupta,thirty,32/01/2024,-1010,M,New delhi
+1262, Anita Brown ,thirty,11-05-22, 3625 ,Male,Delhi
+00755,John Gupta,N/A,2021-11-21, 1466 ,f,Delhi
+179,Anita Sharma,thirty,17/01/2024,689 INR,f,Mumbay
+1370,  John Khan  ,thirty,06 Feb 2020,,,Delhi
+00067,  anita khan  ,twenty five,25 Aug 2023,,FEMALE,Mumbay
+210,Amit Gupta,twenty five,2023-05-27, 435 ,,Bengaluru
+1232,john sharma,N/A,2022-12-18,"4,493",f,Kolkata
+842,amit sharma,thirty,24/07/2020,,male,Mumbai
+1066,Vijay Iyer , ,32/01/2024,,f,Kolkata
+1391,  Robert Mehta  ,thirty,01-14-22,₹3578,f,Mumbai
+218,  Vijay Sharma,N/A,11-11-21,4733,,Kolkata
+755,Robert Mehta  ,thirty,01 Jul 2022,,,Kolkata
+01309,Nina Taylor,twenty five,2020-10-03,,,Kolkta
+1316,chris singh,thirty,18/05/2022,2563 INR,M,Bengaluru
+958,Alice Brown,thirty,32/01/2024, 1592 ,F,Kolkata
+99,sara gupta, ,32/01/2024,,FEMALE,New delhi
+1016,Amit Singh,twenty five,04-24-20,,F,Delhi
+1209,  Nina Patel  ,N/A,02/05/2022,913,Female,Banglore
+517,Sara Iyer,twenty five,11-28-23,4831 INR,Female,Mumbai
+OV953, Vijay Taylor  ,twenty five,13 May 2021,3054,M,Delhi
+390,vijay mehta, ,22 Apr 2021,980,male,Banglore
+58,Sara Brown,80,2021-04-21,,f,Mumbay
+1271,  nina brown,N/A,2021-06-27,716 INR,F,New delhi
+00869,Amit Taylor,15,07/02/2021, 2628 ,Female,Mumbai
+1002,michael iyer,80,13 Dec 2020,633 INR,male,New delhi
+00821,Robert Sharma, ,22 Mar 2020,,f,Kolkta
+1436, Rita Mehta  ,thirty,2023-08-11,"3,397",,Delhi
+00537,nina brown,N/A,2020-12-10,"4,660",FEMALE,Kolkata
+00986,amit brown,thirty,09 Dec 2021,2565 INR,male,Banglore
+PW00304,nina doe,thirty,19 Nov 2021, 3310 ,F,New delhi
+274, john iyer,N/A,09-27-23,"4,529",M,Mumbay
+462,Nina Sharma, ,11 Apr 2020,,male,Delhi
+340,Vijay Brown ,N/A,25/10/2022, 3360 ,Male,Kolkta
+00465,Michael Iyer,43,25 Mar 2022,4673 INR,male,Delhi
+912,Robert Doe, ,32/01/2024,4245,,Delhi
+241,Alice Brown, ,08-15-21, 3073 ,,Kolkta
+113,Nina Singh,N/A,13/03/2021,786,f,Mumbai
+246,Sara Doe, ,11 May 2022,819 INR,,Delhi
+668,  Rita Iyer, ,08-13-20, 3191 ,Female,Banglore
+1357,  Alice Doe ,65,2023-04-17,₹4474,male,Mumbay
+1413,  Vijay Singh , ,2021-12-17,₹4843,Female,Bengaluru
+798, Rita Iyer,N/A,19 Jun 2023, 4999 ,male,New delhi
+1499,Nina Khan,N/A,06 Oct 2020,3060 INR,male,Kolkta
+QF1296,alice taylor,thirty,05-04-23,3327,Female,Delhi
+150, Nina Doe ,twenty five,09-28-22,835,FEMALE,Bengaluru
+1220,  Robert Taylor,62,19 Jul 2021,1316,f,Kolkata
+560,john patel,twenty five,32/01/2024, 1425 ,Female,Kolkata
+KA1430,anita iyer  ,thirty,20 Jul 2022,194 INR,FEMALE,Mumbai
+1068,chris brown,thirty,06-15-20,2979 INR,F,Banglore
+FP00846, Michael Doe ,twenty five,08-09-21,1382,f,Kolkata
+1308,Amit Sharma, ,21 Apr 2023,,FEMALE,Mumbay
+500, Amit Taylor ,twenty five,2021-05-05,363 INR,FEMALE,Banglore
+00043,Anita Mehta,twenty five,2021-08-03,₹4540,M,Kolkta
+284,Michael Sharma ,N/A,32/01/2024,3673 INR,Female,Banglore
+197,  Vijay Khan ,28,05-15-23,3011 INR,Male,Kolkata
+FG133,Amit Khan, ,07-06-22,4486,M,Banglore
+1235,Michael Khan,40,06-07-23,₹4427,Female,Kolkata
+01232,  john doe  , ,13/03/2021,3253 INR,male,New delhi
+00031,Rita Taylor,thirty,04-25-20,1819 INR,Female,Kolkta
+IP906, vijay mehta  ,45,2022-05-06,4215,male,Mumbay
+50,Chris Iyer,twenty five,2024-01-15,547,M,Kolkta
+00041,Rita Iyer,twenty five,03-22-20,4015 INR,Female,Delhi
+00777, sara sharma  ,thirty,09 Jun 2022,"3,206",M,Bengaluru
+726,Robert Singh,51,32/01/2024,,f,Kolkta
+647,Nina Mehta, ,04-02-22,4754,M,Banglore
+508,  vijay khan ,N/A,08-16-23,₹2742,M,Mumbay
+GG343,  Rita Khan,thirty,22/09/2020,688 INR,,Mumbay
+01078,amit patel,twenty five,25 Jun 2021, 195 ,male,Mumbai
+674,Priya Taylor,78,2024-01-04,4910 INR,male,Banglore
+693,sara iyer,twenty five,11-19-22,2236 INR,Female,Banglore
+537, Amit Iyer,twenty five,2023-07-25,₹3453,Female,Bengaluru
+896,Robert Gupta,twenty five,12/03/2020,,FEMALE,Mumbai
+38,John Doe,56,09 Apr 2023,3526 INR,Female,Banglore
+17, amit iyer,N/A,2022-08-19,₹3061,FEMALE,Banglore
+UZ1150, Vijay Sharma,twenty five,01 Jul 2023,,F,Kolkta
+565,michael taylor,N/A,10/01/2021,,FEMALE,Banglore
+EF01453,Robert Gupta  ,18,18 Mar 2021,4907,FEMALE,Mumbay
+547,Sara Doe, ,03-28-20,₹4073,f,Kolkata
+753,Michael Taylor,twenty five,08/02/2021, 3001 ,,New delhi
+342, Amit Singh  ,thirty,2020-04-06,"4,203",Male,Banglore
+00917,Anita Mehta,N/A,01-19-24,₹2927,FEMALE,Bengaluru
+DS313,Alice Brown,27,2021-10-02,4566,f,Mumbai
+1091,Michael Iyer,twenty five,11-29-23,,Male,Bengaluru
+00802,Rita Khan  ,twenty five,2020-03-20,"4,591",male,Mumbai
+426, Sara Taylor,N/A,02 Feb 2023,₹4750,Female,Banglore
+1177,chris singh,80,32/01/2024,,FEMALE,Delhi
+489, Robert Patel  ,twenty five,32/01/2024,₹1481,Male,Kolkata
+1069,anita taylor , ,22 Dec 2023,"2,690",male,Kolkta
+500,Vijay Taylor,thirty,26/11/2022,"3,304",FEMALE,Mumbay
+372,Alice Doe,50,01-26-23, 2062 ,M,Kolkata
+608,amit doe  ,twenty five,12-17-21,"2,127",Female,Kolkata
+00512,Vijay Doe,28,32/01/2024,"1,948",Male,Banglore
+196,Robert Khan,N/A,08-19-21,₹4374,male,Banglore
+384,priya sharma,twenty five,06-24-21,,,Bengaluru
+1228, rita iyer ,N/A,32/01/2024,578 INR,Male,Kolkta
+572,Michael Mehta,twenty five,32/01/2024, 1371 ,male,Kolkata
+23,alice singh, ,11/01/2024,,male,Kolkta
+179,Chris Mehta,thirty,26 Jul 2023,,FEMALE,Kolkta
+261,  Nina Khan  ,twenty five,11-30-22,₹735,Male,New delhi
+857,  Sara Doe  ,N/A,23 Jun 2021,4909 INR,f,Mumbay
+146,Rita Mehta,64,20/01/2020,"1,435",FEMALE,Mumbay
+509,Nina Khan,N/A,28/01/2023,1846 INR,male,Bengaluru
+JL159,John Iyer,twenty five,32/01/2024,2756 INR,M,Bengaluru
+449,  john singh  ,thirty,2023-04-11,₹4790,M,New delhi
+317, anita khan,N/A,32/01/2024, 1697 ,male,Mumbay
+250,Robert Gupta, ,2023-04-20,₹3874,F,Bengaluru
+671,  alice patel ,twenty five,08-29-21,"3,169",M,Bengaluru
+863,Robert Patel,38,10-13-21,3553,F,New delhi
+897,  John Brown, ,02-04-20,431 INR,Male,Kolkata
+632, Amit Sharma,twenty five,2021-04-11,"1,770",F,Delhi
+64,John Taylor,49,2020-09-12,827,FEMALE,Mumbay
+279,michael iyer,N/A,02-25-23,,f,Kolkata
+DM527,alice mehta,N/A,2020-07-16,,Male,Kolkta
+1078,  Chris Iyer ,N/A,17/08/2021,,f,Banglore
+00148,  Amit Sharma  , ,01-16-24,1903 INR,f,Bengaluru
+01250,  Vijay Sharma ,N/A,32/01/2024,1757 INR,,Banglore
+589,Nina Iyer,N/A,32/01/2024,"1,303",Male,Mumbai
+1177,Amit Taylor , ,03-25-20,669 INR,F,Kolkta
+01495,John Iyer ,78,11-15-20,1379,Female,Bengaluru
+00231,Amit Brown ,51,09-11-21,-4294,f,Kolkta
+902,Anita Iyer,twenty five,2022-11-19, 4988 ,,Delhi
+536,Sara Brown,76,22/11/2021,3871 INR,male,Kolkta
+77,anita taylor ,thirty,03-22-21,,FEMALE,Banglore
+01140,Nina Iyer,19,21 Sep 2020,3592 INR,M,Delhi
+613,Priya Doe,20,32/01/2024, 4768 ,Male,Mumbay
+00638, Amit Gupta , ,01-19-22,"2,158",male,Mumbai
+346,  robert khan,twenty five,32/01/2024,,,Kolkta
+863,  John Brown , ,26/06/2021,4582,F,Mumbai
+00845,Amit Taylor,N/A,2024-02-02,,male,Delhi
+01296,Nina Iyer ,twenty five,10-08-21,-3706,F,Delhi
+QR241,  Robert Doe  ,N/A,21/08/2023,,Male,Kolkata
+01205,john iyer,29,2023-08-25,,M,Bengaluru
+546,  robert singh ,71,32/01/2024,698,male,Delhi
+HT505, nina brown ,N/A,2022-05-25,681,Female,Banglore
+307, anita singh  ,78,27 Aug 2022,2289,f,Delhi
+311,  Sara Brown  ,twenty five,2023-02-07,4278,Male,Mumbai
+896,John Sharma,62,12 May 2020,"3,722",,Mumbay
+1027,Vijay Sharma,75,11 Sep 2023,₹4871,M,New delhi
+990,John Gupta,23,14/01/2024, 1505 ,male,Bengaluru
+816, rita iyer,twenty five,2021-07-13,"4,817",M,Bengaluru
+1164,Michael Iyer,twenty five,04-25-21,₹3695,Female,Banglore
+616,John Gupta,27,10-29-23,1690 INR,M,Mumbai
+00786,Sara Singh,thirty,28/10/2020, 916 ,M,Mumbay
+MI884,Amit Iyer, ,07-08-20,165,Male,Mumbai
+289,sara iyer,N/A,17/11/2021, 338 ,FEMALE,Banglore
+NM00204, Michael Sharma ,twenty five,30/04/2022, 4049 ,F,Kolkta
+VU477,Vijay Doe,thirty,12-10-20,3209,FEMALE,Banglore
+56,Amit Taylor, ,31/12/2020,₹4209,,Delhi
+00886,robert singh,43,01-18-23,2677,f,New delhi
+01495,Nina Sharma,thirty,04-08-21,"1,568",Male,Kolkta
+01463,rita khan, ,2023-03-22, 1656 ,male,Delhi
+1322,john singh,thirty,32/01/2024,,FEMALE,Banglore
+698,alice taylor, ,2022-09-22,4110 INR,Female,New delhi
+NT1149,John Khan,twenty five,09-10-21,-3264,FEMALE,Kolkta
+275,  Chris Taylor ,thirty,32/01/2024,"2,622",male,Mumbay
+349,Amit Khan,N/A,29/06/2023, 3236 ,f,Kolkta
+1009,michael doe,thirty,07-31-21,1277 INR,FEMALE,New delhi
+180,Sara Gupta,64,01-06-22,3300,Female,Banglore
+121,Robert Gupta,N/A,09-01-20, 4486 ,F,Delhi
+00370,John Singh,thirty,09-15-22, 3568 ,Female,Kolkata
+1402,Sara Doe,thirty,32/01/2024,2213 INR,FEMALE,Delhi
+249,John Doe,N/A,2023-03-29,2939 INR,male,Mumbai
+1038,Vijay Iyer,45,18/07/2020,3089 INR,M,Mumbay
+01399,chris doe,twenty five,02/07/2023,₹1619,,Kolkta
+697,rita khan,29,31/03/2023,₹1861,male,New delhi
+01125,vijay khan,17,10/12/2021,3842,M,Delhi
+291,nina doe,N/A,10 Jan 2022,"4,292",M,Mumbai
+321,Michael Mehta,47,21 Feb 2021,4334 INR,F,Mumbai
+UI00556, sara singh,twenty five,21 Dec 2023, 4146 ,Male,Mumbay
+979,robert khan  ,19,2021-06-18,,,Bengaluru
+00733,rita sharma  , ,02 Jan 2020,3707 INR,Male,Kolkata
+149,Rita Patel  , ,06 Jul 2020,1740,male,Delhi
+00955,  Vijay Patel  ,N/A,12-29-22,,Female,Bengaluru
+1056, Alice Gupta,twenty five,2020-04-09, 4762 ,M,Bengaluru
+1258,robert mehta,twenty five,03-29-22, 1290 ,Female,Mumbay
+517,michael doe,twenty five,2022-10-23,,f,Kolkta
+460,Alice Taylor,thirty,32/01/2024,,,Kolkata
+BP72,  rita khan,42,09-18-20,-2933,F,Mumbay
+339,Priya Singh,twenty five,17/01/2020, 1407 ,male,Kolkta
+69,sara gupta  , ,04-13-21,,male,Kolkta
+RS357, rita mehta,N/A,23/01/2021,240,Female,Banglore
+995,  anita singh,67,11 Mar 2021,3057,M,Mumbai
+91,Sara Doe,thirty,19 Nov 2020, 2548 ,F,Delhi
+1478,Amit Doe,twenty five,06-02-20,,Male,Bengaluru
+GF630,Michael Khan,thirty,2020-05-05,4597 INR,FEMALE,Mumbai
+149,John Patel,twenty five,01-25-20,3033,male,Banglore
+00357,  Chris Doe,N/A,32/01/2024,,Male,Kolkata
+VC331,Rita Brown,twenty five,19 Mar 2020,"2,176",F,New delhi
+1069,Alice Khan,39,04-12-23, 974 ,,Delhi
+243,John Khan,N/A,15 Apr 2022,,male,Banglore
+00137, Anita Iyer ,thirty,06/07/2021,1121,Female,New delhi
+1205,Sara Sharma,N/A,14/07/2021,533 INR,FEMALE,Kolkta
+383,rita brown ,thirty,32/01/2024,"1,905",Male,Kolkta
+1216,Rita Iyer,thirty,32/01/2024,₹790,Male,Mumbay
+1290,Vijay Sharma, ,31 Mar 2023, 234 ,f,Kolkta
+166,Chris Singh,thirty,29 Nov 2022,2524 INR,male,Mumbay
+798,priya brown,47,10-23-20,,Male,Mumbay
+ML1312,Rita Sharma,N/A,28/03/2022,,M,Mumbay
+01134,chris gupta, ,32/01/2024,₹1663,M,Banglore
+00273,  robert taylor , ,2021-03-05,4536,Female,Kolkata
+675,priya taylor,twenty five,03-18-21,1587,FEMALE,Delhi
+LZ01223,Rita Taylor,thirty,06-11-23, 811 ,Female,Bengaluru
+708,vijay sharma,twenty five,28/01/2021,1032 INR,male,Banglore
+979,nina iyer,twenty five,05 Jan 2020,"2,833",Male,Kolkata
+355,Nina Singh, ,10/05/2021,₹409,f,Delhi
+EP526, Robert Singh,N/A,10-19-22,,Female,New delhi
+YB1059,Priya Taylor,78,2020-09-26,"4,089",FEMALE,Kolkata
+775,Priya Taylor ,53,08-02-20,2106,FEMALE,Kolkta
+1372,Priya Brown,80,2023-02-14,1406,Male,Mumbai
+693,Priya Singh  ,74,21/01/2020,1769,Female,Mumbai
+OB00361,Michael Patel,thirty,32/01/2024,,F,Banglore
+744,amit singh,N/A,32/01/2024,1006,M,New delhi
+TQ1125,  Rita Gupta  ,twenty five,32/01/2024, 3981 ,f,Kolkta
+225,amit khan,twenty five,2020-02-28,"3,482",male,Kolkata
+984,Robert Mehta,twenty five,12-03-21,1425 INR,M,Kolkta
+382,John Khan, ,32/01/2024,₹2961,f,Delhi
+01438,Priya Brown ,N/A,09 May 2020,2735 INR,f,Bengaluru
+446,anita doe,thirty,03-07-22, 1188 ,f,Banglore
+1191,Rita Sharma, ,14/06/2022, 3743 ,FEMALE,Bengaluru
+176,Amit Khan, ,04/08/2023,"2,436",f,Bengaluru
+182,Nina Gupta,N/A,32/01/2024,₹3272,FEMALE,Kolkata
+00226,amit khan,twenty five,32/01/2024, 2212 ,F,Kolkta
+1115, alice sharma ,twenty five,2021-08-29,,Female,Bengaluru
+983,Alice Patel,40,32/01/2024,,Male,Mumbay
+807,Amit Sharma,N/A,2022-08-03,,Female,Mumbai
+00366,Rita Singh ,thirty,11-13-20,4115,f,Mumbai
+1016,  Vijay Mehta, ,03-09-22,₹4864,Male,Banglore
+00841,Priya Brown  ,twenty five,09-30-20,4166,,Mumbay
+1149, Priya Iyer ,N/A,11-24-22,3187 INR,M,Mumbay
+282,Sara Taylor,68,32/01/2024,1778,,Bengaluru
+CB372,Chris Singh  ,21,12-12-23,3724,Male,Delhi
+ZZ00631,rita gupta,twenty five,28 Oct 2021, 3907 ,M,Banglore
+XW986,Anita Iyer,twenty five,10-02-21,,M,Bengaluru
+592,vijay mehta,thirty,30/01/2024,₹2730,Male,New delhi
+01382,Amit Patel,N/A,2022-12-19,,Male,Banglore
+201,Sara Mehta,N/A,10-12-23,4400 INR,male,Mumbay
+550,amit taylor , ,06-24-23, 1621 ,Male,Kolkta
+864,Nina Doe ,N/A,18 Dec 2022,,f,Bengaluru
+1486,Alice Iyer,N/A,09-14-23,2566,male,Mumbay
+1309,anita sharma,65,25/11/2022,,,Banglore
+279,Michael Sharma,thirty,21 Nov 2021,2666 INR,F,Banglore
+1028,Nina Brown ,twenty five,01-31-23,,M,New delhi
+LP1202,rita gupta,N/A,2020-12-27,3867,Male,Banglore
+717,  amit singh,N/A,21 Aug 2021,406 INR,F,Banglore
+600,Anita Sharma, ,2022-07-23,2616,male,Banglore
+RW250,Robert Patel,twenty five,02 Jul 2020,"4,086",F,Mumbay
+49,Michael Gupta, ,09-01-23,619 INR,f,Banglore
+IH1303,Robert Brown,thirty,12 Jul 2022,₹2134,Male,Mumbai
+1399,rita iyer, ,32/01/2024,1848,M,Kolkata
+386,priya gupta,46,07/12/2023, 3560 ,male,Kolkata
+TL953,Nina Taylor ,twenty five,32/01/2024,-2964,FEMALE,Delhi
+00322,Robert Iyer,51,08-27-21,2279 INR,,Mumbai
+642,Nina Gupta,twenty five,04/10/2022,,Female,Bengaluru
+109, Sara Doe ,77,2023-11-28,,,Kolkta
+467,Alice Patel,thirty,32/01/2024,1468,FEMALE,Delhi
+1476, Vijay Sharma  ,thirty,10-01-23,4826 INR,F,Kolkata
+228,Robert Brown,twenty five,01-12-22,-577,f,Kolkta
+987,Priya Singh,21,23 Jul 2022,2843 INR,Female,Delhi
+698,Sara Sharma,thirty,09-19-23,₹1569,FEMALE,Bengaluru
+00145,  sara brown ,twenty five,2021-09-07,3037 INR,f,Kolkata
+1416,Alice Patel, ,32/01/2024, 3702 ,Female,Banglore
+765,Anita Gupta,51,07-26-20,"1,036",FEMALE,Bengaluru
+558,Amit Mehta, ,2021-08-08,₹929,M,Banglore
+00691,John Brown, ,12-29-20,"4,216",F,Kolkata
+00402,Priya Taylor, ,32/01/2024,"1,324",,Banglore
+529,  John Iyer,thirty,23 May 2021,4711 INR,Male,Mumbai
+762,Rita Taylor, ,2021-01-14, 2434 ,FEMALE,Kolkata
+1423, Michael Khan ,thirty,29/07/2021,1448,Male,Bengaluru
+791,Amit Patel,N/A,12 Dec 2021,-3235,M,New delhi
+534,Amit Brown,twenty five,10-30-22,,male,Delhi
+322,priya doe,21,24/07/2022,"2,031",FEMALE,Kolkta
+590,vijay patel,70,32/01/2024,₹688,F,Bengaluru
+450,Robert Singh,twenty five,07-15-20,3549,f,Kolkta
+239,Priya Mehta,twenty five,32/01/2024,1420,Male,Mumbai
+EO638,Anita Taylor, ,2021-09-20,,F,Kolkata
+323,Vijay Mehta,33,17 Oct 2021, 791 ,Female,Delhi
+408,rita singh,twenty five,32/01/2024,1648,F,Kolkata
+PQ1447, Amit Khan  ,twenty five,2021-09-19,4578,,Delhi
+851,Amit Brown, ,05-05-22,₹2931,F,Kolkta
+889, Anita Doe  ,thirty,2020-09-04,"4,439",F,Banglore
+105,Vijay Mehta,N/A,32/01/2024,₹3953,M,Bengaluru
+1259,Alice Khan,twenty five,32/01/2024,3697,FEMALE,Mumbay
+25,  vijay khan , ,2021-02-24,,F,Kolkta
+137,Sara Khan , ,07 Feb 2023,"1,975",f,New delhi
+615,  Robert Gupta,N/A,32/01/2024,"4,029",,Kolkata
+197,  Anita Sharma,79,14/01/2022,1308,Female,Mumbay
+01038,Chris Mehta,79,2023-08-12,"1,284",f,Mumbay
+01244,Sara Iyer ,thirty,32/01/2024, 142 ,male,Delhi
+00493,Rita Gupta,52,2023-10-19,165,,Kolkata
+01469,Rita Khan  , ,01-31-23,"3,046",F,Mumbai
+297,Rita Patel,42,23/08/2021,171,Female,Bengaluru
+FH1011,Anita Khan, ,10/10/2021,,male,Mumbai
+01303,Amit Brown,N/A,16 Oct 2021,₹2350,Male,Kolkta
+794,sara iyer  ,N/A,2021-02-14, 4899 ,male,Kolkata
+1369,Alice Gupta, ,2022-10-05,1411 INR,f,Banglore
+727, nina taylor  ,51,17 Dec 2022,"4,622",F,Banglore
+RW1441, Priya Patel ,twenty five,05-22-20,"4,118",Male,Mumbay
+1327,Priya Taylor, ,04 Aug 2020,-2573,,New delhi
+1017,Chris Mehta, ,07-01-23,,Female,Mumbai
+1015,Chris Taylor, ,31/03/2020,,Male,Kolkta
+331,Sara Singh  ,N/A,08-27-23,,F,Bengaluru
+476, rita mehta ,thirty,25/10/2021,3495 INR,Male,Delhi
+00621,Rita Khan,69,23 Nov 2021,,,Bengaluru
+360,alice brown  , ,04-22-22,1544,FEMALE,Mumbay
+348, Robert Iyer  ,N/A,06 Oct 2022,"2,997",Male,Banglore
+365,Michael Khan, ,07 Jul 2020,₹437,Female,Mumbay
+400,Nina Khan ,thirty,2023-12-06,1791,male,Banglore
+352, alice khan,thirty,2022-01-28,952,FEMALE,Kolkta
+NI1352,Amit Sharma, ,32/01/2024,1581,Male,Banglore
+802,robert khan,N/A,05/02/2020,2818,,Mumbai
+00257,John Gupta,N/A,07-30-22,1180,M,Delhi
+82,anita taylor,32,16/03/2023,₹4185,M,Mumbai
+1124,Amit Khan,thirty,01/08/2021,3537,Female,Bengaluru
+572,michael khan,twenty five,28/04/2021,"4,823",male,Mumbay
+852,Chris Brown ,78,02 Mar 2021,1117,,Mumbay
+546,Sara Doe,thirty,2022-02-05,430 INR,Male,Delhi
+343,Michael Khan,twenty five,14 Dec 2022,₹1126,M,Delhi
+1470,michael sharma,55,2021-09-17,4137 INR,f,Mumbay
+1491,  Sara Brown  , ,2024-01-11,"4,057",f,New delhi
+1294,Amit Khan, ,32/01/2024,1502 INR,Male,Kolkata
+1048,  Robert Gupta ,N/A,2021-07-06,₹1802,Male,Kolkata
+00973,John Doe,28,2021-10-03,3351,Female,Kolkata
+821,Amit Patel,twenty five,05/12/2021,,Female,New delhi
+832,John Iyer  ,N/A,23/11/2020,3716 INR,f,Banglore
+1225,  Priya Mehta,twenty five,11/10/2022,"4,325",FEMALE,Kolkata
+240,Rita Taylor  ,35,2021-03-14,₹3793,male,Mumbay
+912,  Vijay Iyer  ,thirty,02 Jan 2023,₹141,Female,Banglore
+230,Robert Doe, ,02/12/2022,"2,683",Female,Kolkta
+SY421, Priya Doe  ,twenty five,01-22-24,₹2120,Male,Mumbai
+790,Priya Singh,71,32/01/2024,₹3247,Male,Kolkta
+UE00516,anita gupta, ,13 Apr 2021, 2344 ,f,Kolkata
+00533,  vijay brown ,N/A,32/01/2024,,F,Bengaluru
+RT962,Amit Brown,twenty five,12/03/2021, 1175 ,f,Kolkata
+01098,sara doe,thirty,14 Jul 2020,"1,129",FEMALE,Kolkata
+00070,Amit Singh,thirty,2023-12-29,,male,Kolkta
+1184,  Robert Mehta ,twenty five,04 Oct 2023,,Male,Banglore
+599,  nina khan,N/A,32/01/2024,,male,Mumbay
+01172,priya iyer,N/A,32/01/2024,"2,350",M,Mumbay
+193, Sara Patel  ,thirty,09/06/2023,,f,Delhi
+LO241,sara patel,twenty five,11-06-20,4498,Male,Bengaluru
+SW00218,John Taylor,N/A,09-29-23,4274 INR,M,Kolkta
+1232,Priya Doe,78,2023-05-02,2214 INR,Male,Kolkata
+IB601,Anita Iyer,twenty five,2021-04-12, 2553 ,FEMALE,Kolkata
+687,John Sharma, ,32/01/2024,1175 INR,f,Kolkta
+238,Priya Khan, ,04/02/2020,2048,M,Mumbai
+819, michael iyer ,46,20 Oct 2023,4647 INR,Male,Banglore
+419,  Rita Taylor , ,32/01/2024,3312,,Bengaluru
+655,Chris Khan,30,05-29-20,837,f,Mumbay
+GX77, Rita Gupta  ,37,04-15-22,3999 INR,male,Banglore
+934,anita mehta,twenty five,32/01/2024,3200 INR,M,New delhi
+253,Michael Iyer,78,01/02/2024,₹1717,FEMALE,Banglore
+995,Chris Mehta,twenty five,10-25-22, 329 ,F,Banglore
+UJ445,Chris Brown, ,09-23-22,₹2322,F,Kolkta
+ID591,Chris Doe, ,07-13-23,,Male,Kolkata
+00925,Michael Mehta,twenty five,12-02-22, 4129 ,M,Kolkata
+679,Nina Gupta,N/A,16 May 2021,₹263,M,Banglore
+00400, alice singh  ,twenty five,2021-08-28,₹4362,f,Banglore
+00735,Vijay Doe,thirty,32/01/2024,1560 INR,Male,Mumbai
+1455,  sara mehta,N/A,21 Apr 2022,2110 INR,f,Bengaluru
+01422,Alice Khan,twenty five,23/06/2022,"3,963",Male,Kolkta
+01387,Chris Brown  ,thirty,06 Jan 2022,1710 INR,M,Bengaluru
+00871,Priya Brown, ,2020-12-03,407,,Banglore
+1228,sara mehta, ,2020-12-11,,Female,Kolkta
+1212, Robert Sharma,N/A,05 Aug 2023, 573 ,Female,New delhi
+37,Sara Doe,thirty,04-29-21,2684 INR,,New delhi
+990, Rita Iyer , ,02-07-23,,,Mumbay
+128,Chris Doe,40,32/01/2024,"3,975",Female,Mumbay
+XQ192,Anita Mehta,61,2021-06-08,"1,516",f,Mumbai
+1282,Anita Sharma, ,01 May 2021,721,,Mumbay
+GO11,alice iyer  ,22,2023-08-17,3844,Female,New delhi
+DT01198,amit patel,N/A,25 Dec 2022, 2249 ,f,Banglore
+1302,Chris Khan,twenty five,08-13-23,206,FEMALE,Bengaluru
+830,Anita Gupta  ,thirty,2023-05-21, 1887 ,M,New delhi
+583,  alice brown  ,N/A,2022-12-06, 256 ,FEMALE,Bengaluru
+691,  Michael Taylor, ,32/01/2024, 2232 ,,Kolkta
+1148,  Vijay Brown ,46,32/01/2024,,FEMALE,Mumbai
+00482,Priya Gupta,thirty,15 Feb 2023,"2,959",male,Mumbay
+731,Alice Doe,N/A,26/05/2021,580 INR,F,Delhi
+974,Chris Mehta,thirty,32/01/2024, 1715 ,M,Mumbay
+00809,Alice Sharma,twenty five,09-09-20,3878 INR,M,Kolkta
+751,vijay khan,thirty,30 Oct 2022,₹1363,Male,Delhi
+1069,Vijay Taylor,twenty five,32/01/2024,"1,582",f,Bengaluru
+690,Sara Doe,thirty,07/09/2023, 1086 ,f,Kolkata
+552,  vijay singh ,79,07 Jun 2020,"1,878",M,Mumbai
+1101,Robert Mehta,twenty five,12-29-21,3644 INR,male,Bengaluru
+56, Priya Doe  ,N/A,2020-04-11,263,F,Mumbay
+00180,  robert taylor  ,74,03-03-22,₹2523,,Bengaluru
+1443,Nina Mehta,twenty five,32/01/2024,"4,696",FEMALE,Bengaluru
+01293,Robert Mehta, ,09 Nov 2020,"3,980",Female,Banglore
+47,Sara Singh,N/A,01-19-20, 4411 ,Male,Bengaluru
+00423,Nina Doe,twenty five,10-15-23,4940 INR,F,Banglore
+01342,Alice Singh,41,07 Sep 2023,,M,Delhi
+00849,Vijay Iyer,N/A,06/05/2021,₹3383,FEMALE,Mumbay
+801,michael khan,72,32/01/2024,363,Female,Kolkta
+1001,Vijay Sharma,N/A,10 Feb 2023, 4689 ,F,Kolkta
+596,robert brown  ,twenty five,2021-11-16,"4,094",Female,Delhi
+1255,  Alice Patel  ,N/A,07-13-23,325 INR,F,Bengaluru
+MD1125,Robert Patel,twenty five,05 Feb 2022,237 INR,Female,Delhi
+1406,  rita doe ,thirty,32/01/2024,3766 INR,Male,Delhi
+409,john taylor,30,2023-04-25,,f,Banglore
+01173,anita doe,twenty five,2020-09-10, 3513 ,,Mumbay
+356,Vijay Singh,twenty five,31/10/2020,1039,F,Banglore
+1013,Priya Singh,twenty five,2022-10-15, 3494 ,Female,Banglore
+DL549,Nina Patel, ,2020-05-04, 4642 ,Female,Kolkta
+294,Anita Singh,75,31/10/2021,,Female,Bengaluru
+344,  anita brown  , ,07-14-20,"3,583",Male,New delhi
+00904,John Doe, ,18 Jan 2023,₹1357,FEMALE,Mumbai
+172,Priya Sharma,N/A,32/01/2024,,FEMALE,Banglore
+1460,Vijay Gupta,N/A,2023-03-11,,Male,New delhi
+1140,amit doe,twenty five,10-06-23,₹3841,Male,Mumbay
+528, Rita Singh , ,32/01/2024,1017,male,Banglore
+218,  Alice Iyer  ,thirty,20/08/2020,₹1933,Male,Kolkta
+605,robert gupta,thirty,32/01/2024,₹967,FEMALE,Kolkta
+941,Amit Iyer,N/A,05-17-23,"3,717",male,Kolkta
+857, John Khan,42,32/01/2024,2525 INR,male,Kolkta
+617,Robert Brown,twenty five,14/10/2021,3310 INR,Female,Banglore
+1407,Anita Mehta,thirty,12 Apr 2022,₹2774,M,Bengaluru
+408,Rita Doe ,40,32/01/2024,"1,343",FEMALE,Mumbai
+114,Anita Khan,N/A,2021-02-03,1171 INR,Male,Kolkata
+1189,Nina Khan,thirty,31 Aug 2021,₹944,,Kolkta
+449,Anita Khan, ,2021-04-11,1796 INR,male,Mumbai
+1125,Vijay Singh, ,14 May 2020, 3838 ,Male,Kolkta
+269,Chris Iyer,N/A,28/05/2020,"3,927",,Delhi
+1125,rita doe,N/A,2021-01-30,3107,FEMALE,Mumbay
+1273,priya mehta, ,12/08/2020,₹1172,f,Mumbai
+346,  nina sharma ,thirty,32/01/2024,,FEMALE,Kolkta
+853,vijay khan,thirty,19/09/2021,₹1075,,Mumbay
+19,John Sharma, ,2020-10-06,3044 INR,Female,New delhi
+01076,Sara Mehta,twenty five,28/10/2021,₹1408,male,Delhi
+935,Anita Patel,twenty five,11 Apr 2021,4399 INR,Female,New delhi
+00898, priya brown ,twenty five,09-15-21,₹600,f,Delhi
+1349,Sara Doe,70,05 Feb 2024, 3291 ,Male,New delhi
+551,chris taylor,thirty,32/01/2024,₹1534,FEMALE,Banglore
+TY1263,michael patel  , ,22 Jul 2021, 2452 ,FEMALE,Mumbai
+00645, anita iyer ,62,2020-05-11,4488,M,Kolkta
+563,sara doe, ,12-03-22,"2,623",Male,Mumbay
+TA718, Priya Sharma ,N/A,18/06/2020,,Female,Banglore
+1329, nina gupta  ,thirty,32/01/2024,4652 INR,FEMALE,Kolkata
+855,Alice Singh ,25,12-17-22,3321,Female,New delhi
+1210,Amit Iyer,23,17/10/2023,3722,F,New delhi
+919,chris khan,twenty five,32/01/2024,₹669,Male,Bengaluru
+1450, Priya Khan ,N/A,15/11/2021, 2734 ,M,Bengaluru
+520,Michael Patel,N/A,32/01/2024,₹3809,Male,Bengaluru
+671,Robert Singh, ,32/01/2024,₹3783,Female,New delhi
+1338,Vijay Brown,thirty,32/01/2024,₹4659,M,Banglore
+829,John Khan,twenty five,26 Feb 2023,,Female,Mumbai
+1218,alice khan,twenty five,23/08/2023, 1902 ,,Bengaluru
+923,robert khan, ,2020-07-24,1175,Female,Mumbay
+104,Priya Singh  ,36,05-21-20,,,Kolkata
